@@ -25,14 +25,8 @@ d) Write a piece of code that creates an instance of the class Movie with the ti
 Convert the UML diagram to Typescript class. - use number for double
 
 
-![alt text](image.png)
-
-
-
 
 3. Write a "person" class to hold all the details.
-
-
 
 
 
