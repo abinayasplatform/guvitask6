@@ -42,7 +42,7 @@ console.log(pgMovies);
 // [
 //     Movie { title: 'Frozen', studio: 'Disney', rating: 'PG' },
 //     Movie { title: 'Aladdin', studio: 'Disney', rating: 'PG' }
-//   ]
+// ]
 
 
 

@@ -15,9 +15,9 @@ class UberPrice {
 }
 
 
-const calculator = new UberPrice(2.5, 0.3, 1.5); 
-const distance = 10; 
-const duration = 20; 
+const calculator = new UberPrice(4.6, 1.3, 3.5); 
+const distance = 20; 
+const duration = 50; 
 
 const totalPrice = calculator.getcalculatedPrice(distance, duration);
 console.log("Total Price:", totalPrice);
@@ -28,4 +28,4 @@ console.log("Total Price:", totalPrice);
             // output
 
 
-// Total Price: 23.5
+// Total Price:  139.6
